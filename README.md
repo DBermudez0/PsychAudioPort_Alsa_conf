@@ -2,6 +2,7 @@
 PsychAudioPort (Psychtoolbox) Alsa configuration for dual boot Windows-Ubuntu computers
 <h2> Installation requirements </h2>
 make sure you already installed the alsa-base pulseaudio in the Ubuntu (linux) side of the computer
+
 You can do this by running in your terminal:
 sudo apt-get install alsa-base pulseaudio
 
